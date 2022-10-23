@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:jsweber/create-open-app.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
